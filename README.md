@@ -11,7 +11,7 @@
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
-
+<br>
 <p>♟  I’m interested in programming, games, movies, series and pets. </p>
 <p>🌱 I’m currently learning JavaScript, TypeScript, Node.js and React. </p>
   
