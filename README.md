@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Thiago Antonello Vargas
+## 👋 Hello World, I’m Thiago Antonello Vargas
 ♟ I’m interested in programming, games, movies, series and pets. <br>
 🌱 I’m currently learning JavaScript, TypeScript, Node.js and React. <br>
 
