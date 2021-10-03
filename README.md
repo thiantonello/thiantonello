@@ -2,8 +2,6 @@
 - 👀 I’m interested in programming, games, movies, series and pets.
 - 🌱 I’m currently learning JavaScript, TypeScript, Node.js and React.
 
-![thiantonello's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiantonello&count_private=true&show_icons=true)
-
 <div>
   <a href="https://github.com/thiantonello">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiantonello&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
