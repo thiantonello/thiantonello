@@ -1,7 +1,7 @@
 ## 👋 Hello World, I’m Thiago Antonello Vargas
-♟  I’m interested in programming, games, movies, series and pets.
-🌱 I’m currently learning JavaScript, TypeScript, Node.js and React.
-<br>
+♟  I’m interested in programming, games, movies, series and pets. <br>
+🌱 I’m currently learning JavaScript, TypeScript, Node.js and React. <br>
+
 <div style="display: inline_flex">
   <a href="https://github.com/thiantonello">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiantonello&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
