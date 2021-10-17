@@ -1,12 +1,12 @@
 ## 👋 Hello World, I’m Thiago Antonello Vargas
-♟  Interests: programming, games, movies, series and pets. <br>
-🌱 Study, main: Ruby on Rails. <br>
-🌱 Study, secondary: JavaScript, TypeScript, Node.js and React. <br>
+♟  Interests: technology, programming, games, movies, series, animes and pets <br>
+🌱 Study, main: Ruby on Rails <br>
+🌱 Study, secondary: JavaScript, TypeScript, Node.js and React <br>
 
-💻🎮 Full-time Geek 📽️🕹️<br>
+💻🎮 Full-time Geek 📽️🕹️ <br>
 
 "The pessimist complains about the wind; the optimist expects it to change; the realist adjusts the sails."
-William Arthur Ward<br>
+William Arthur Ward <br>
 <br>
 
 <div align="center">
