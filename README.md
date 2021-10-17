@@ -1,6 +1,13 @@
 ## 👋 Hello World, I’m Thiago Antonello Vargas
 ♟  Interests: programming, games, movies, series and pets. <br>
-🌱 Studying: JavaScript, TypeScript, Node.js and React. <br>
+🌱 Study, main: Ruby on Rails. <br>
+🌱 Study, secondary: JavaScript, TypeScript, Node.js and React. <br>
+
+💻🎮 Full-time Geek 📽️🕹️<br>
+
+"The pessimist complains about the wind; the optimist expects it to change; the realist adjusts the sails."
+William Arthur Ward<br>
+<br>
 
 <div align="center">
   <a href="https://github.com/thiantonello">
@@ -9,10 +16,11 @@
 </div>
 <br>
 <div style="display: inline_block">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg ">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">   
 </div>
 <br>  
 <div>
