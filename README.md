@@ -1,6 +1,6 @@
 ## 👋 Hello World, I’m Thiago Antonello Vargas
 ♟  Interests: technology, programming, games, movies, series, animes and pets <br>
-🌱 Study: Ruby on Rails, JavaScript, TypeScript, Node.js and React <br>
+🌱 Study: Ruby on Rails and JavaScript. <br>
 
 💻🎮 Full-time Geek 📽️🕹️ <br>
 
