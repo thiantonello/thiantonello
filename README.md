@@ -1,12 +1,11 @@
-## 👋 Hello World, I’m Thiago Antonello Vargas
-♟  Interests: technology, programming, games, movies, series, animes and pets <br>
+## Hello World, I’m Thiago Antonello Vargas
+♟ Interests: technology, programming, games, movies, series, animes and pets <br>
 🌱 Study: Ruby on Rails and JavaScript. <br>
 
-💻🎮 Full-time Geek 📽️🕹️ <br>
+💻 👾 Full-time Geek 🎮 🕹️ <br>
 
 "The pessimist complains about the wind; the optimist expects it to change; the realist adjusts the sails."
 William Arthur Ward <br>
-<br>
 
 <div align="center">
   <a href="https://github.com/thiantonello">
