@@ -25,7 +25,6 @@ William Arthur Ward <br>
 <div>
   <a href="https://www.linkedin.com/in/thiago-antonello-vargas-241a77180" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
   <a href="https://www.instagram.com/thiantonello/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<!--- <a href="https://www.twitch.tv/mighthi" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> --->
 </div>
   
 <!--- - 💞️ I’m looking to collaborate on ...
