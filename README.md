@@ -1,17 +1,20 @@
 ## Hello World, I’m Thiago Antonello Vargas
 ♟ Interests: technology, programming, games, movies, series, animes and pets <br>
-🌱 Study: JavaScript. <br>
+🌱 Software Engineering studant at UniCesumar (Bachelors degree)
 
 💻 👾 Full-time Geek 🎮 🕹️ <br>
 
 "The pessimist complains about the wind; the optimist expects it to change; the realist adjusts the sails."
 William Arthur Ward <br>
 
+<!---
 <div align="center">
   <a href="https://github.com/thiantonello">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiantonello&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiantonello&layout=compact&langs_count=8&theme=tokyonight" />
 </div>
+--->
+
 <br>
 <div style="display: inline_block">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
