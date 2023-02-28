@@ -1,11 +1,19 @@
 ## Hello World, I’m Thiago Antonello Vargas
-♟ Interests: technology, programming, games, movies, series, animes and pets <br>
-🌱 Software Engineering studant at UniCesumar (Bachelors degree)
+💻 Full Stack Software Engineer <br>
+🎓 Software Engineering studant at UniCesumar (Bachelors degree)
 
-💻 👾 Full-time Geek 🎮 🕹️ <br>
+📚 Focusing on React
+
+♟ Interests: technology, programming, games, movies, series, animes and pets <br>
+👾 Full-time Geek 🎮
+
+<br>
 
 "The pessimist complains about the wind; the optimist expects it to change; the realist adjusts the sails."
-William Arthur Ward <br>
+William Arthur Ward
+
+<br>
+<br>
 
 <div align="center">
   <a href="https://github.com/thiantonello">
@@ -14,6 +22,8 @@ William Arthur Ward <br>
 </div>
 
 <br>
+<br>
+
 <div style="display: inline_block">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
