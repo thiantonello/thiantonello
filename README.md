@@ -2,7 +2,7 @@
 💻 Full Stack Software Engineer <br>
 🎓 Software Engineering studant at UniCesumar (Bachelors degree)
 
-📚 Focusing on React
+📚 Focusing on JavaScript
 
 ♟ Interests: technology, programming, games, movies, series, animes and pets <br>
 👾 Full-time Geek 🎮
